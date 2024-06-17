@@ -1,4 +1,17 @@
 <resources>
     <string name="app_name">AndroidBook</string>
-    <string name="roll">Roll</string>
+    <string name="random">Random!</string>
+    <!-- https://www.nga.gov/collection/art-object-page.102634.html -->
+    <string name="title1">River Landscape with Villages and Travelers [verso], c. 1675/1685</string>
+    <!-- https://www.nga.gov/collection/art-object-page.41637.html -->
+    <string name="title2">Christ at the Sea of Galilee, c. 1570s</string>
+    <!-- Found here: https://www.artic.edu/artworks/77333/under-the-wave-off-kanagawa-kanagawa-oki-nami-ura-also-known-as-the-great-wave-from-the-series-thirty-six-views-of-mount-fuji-fugaku-sanjurokkei -->
+    <string name="title3">Under the Wave off Kanagawa </string>
+    <!-- https://www.artic.edu/artworks/88463/poem-by-sarumaru-dayu-from-the-series-one-hundred-poems-explained-by-the-nurse-hyakunin-isshu-uba-ga-etoki -->
+    <string name="title4">Poem by Sarumaru Dayu, from the series “One Hundred Poems Explained by the Nurse (Hyakunin isshu uba ga etoki)” </string>
+
+    <string name="author1">Anonymous</string>
+    <string name="author2">Anonymous (probably Jacopo Tintoretto)</string>
+    <string name="author3">Katsushika Hokusai</string>
+    <string name="author4">Katsushika Hokusai</string>
 </resources>
